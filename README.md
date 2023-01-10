@@ -4,6 +4,12 @@
 
 Midterm portfolio project includes Homepage project page in HTML includes files for eyeproject, pacmen and realtime bus tracking 
 
+#To Run 
+
+Clone Repository into VS code
+
+Open Index.HTML
+
 
 MIT License
 Copyright (c) 2022
