@@ -1,0 +1,57 @@
+#main{ 
+    
+    background-color: #fdfdfd;
+    width: 80%;
+    height: 1500px;
+    box-shadow: 3px 3px 3px #333;
+    margin-right: auto;
+    margin-left: auto; }
+
+#content{
+    display: grid;
+    grid-template-columns:1fr 3fr;
+}
+
+body{
+    background-color: #a3a3a3;
+    float:right;
+
+}
+h1{
+    color:white;
+    width: 40%;
+    display: inline;
+
+}
+
+#banner {
+    height: 200px;
+    background-image: linear-gradient(to left, #ff0000, #a3a3a3, #050505);
+    background-repeat: no-repeat; 
+    
+}
+img{
+    width: 200px;
+    height: 200px;
+    float: right;
+    padding-top: 0%;
+}
+
+#sidebar{
+    float:left;
+    
+    height: 1200px;
+    
+}
+#aboutMe{
+    float: left;
+    width: 90%; 
+    height: 1200px;
+ }
+
+ footer{
+    float: center;
+    
+}
+
+
