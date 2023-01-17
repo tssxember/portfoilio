@@ -53,5 +53,11 @@ img{
     float: center;
     
 }
+a:hover {
+    background-color: gray;
+    
+  }
 
-
+ul{
+    list-style: none
+}
