@@ -1,5 +1,4 @@
 #main{ 
-    
     background-color: #fdfdfd;
     width: 80%;
     height: 1500px;
@@ -39,7 +38,6 @@ img{
 
 #sidebar{
     float:left;
-    
     height: 1200px;
     
 }
@@ -54,10 +52,13 @@ img{
     
 }
 a:hover {
-    background-color: gray;
+    background-color: red;
     
   }
 
 ul{
-    list-style: none
+    list-style: none;
+    margin: 0;
+    padding: 0;
 }
+
